@@ -1,0 +1,2263 @@
+﻿sml = version = 0.1; encoding = utf-8
+  localization
+    header
+      source_lang = en
+      target_lang = ur
+        native_name = اُردُو
+        orientation = rtl
+        Keyboard_Layout = Urdu
+
+    translations
+      unit
+        source = Nidham Ansab
+        target = 
+      unit
+        context = dialog
+        source = &OK
+        target = 
+      unit
+        context = dialog
+        source = &Cancel
+        target = 
+      unit
+        context = dialog
+        source = &Close
+        target = 
+      unit
+        context = dialog
+        source = Confirm
+        target = 
+      unit
+        source = File
+        target = 
+      unit
+        source = &New
+        target = 
+      unit
+        source = &Open
+        target = 
+      unit
+        source = &Save
+        target = 
+      unit
+        source = Save &As
+        target = 
+      unit
+        source = E&xit
+        target = 
+      unit
+        source = &Edit
+        target = 
+      unit
+        source = &View
+        target = 
+      unit
+        source = Options
+        target = 
+      unit
+        source = Update
+        target = 
+      unit
+        source = Delete
+        target = 
+      unit
+        source = Remove
+        target = 
+      unit
+        source = Remove All Items
+        target = 
+      unit
+        source = Copy
+        target = 
+      unit
+        source = Paste
+        target = 
+      unit
+        source = Select
+        target = 
+      unit
+        source = Select All
+        target = 
+      unit
+        source = &Browse
+        target = 
+      unit
+        source = Show
+        target = 
+      unit
+        source = Show all
+        target = 
+      unit
+        source = Default
+        target = 
+      unit
+        source = and
+        target = 
+      unit
+        source = Data Record
+        target = 
+
+      unit
+        source = Refresh
+        target = 
+      unit
+        source = Add
+        target = 
+      unit
+        source = Add Spouse
+        target = 
+      unit
+        source = Move to
+        target = 
+      unit
+        source = Expand
+        target = 
+      unit
+        source = Edit Name
+        target = 
+
+      unit
+        source = Reorder Data Sections
+        target = 
+      unit
+        source = Show in Main Window
+        target = 
+      unit
+        source = Tree Window
+        target = 
+      unit
+        source = Separate Tree
+        target = 
+      unit
+        source = Show person in main window
+        target = 
+      unit
+        source = Show person in Separate tree
+        target = 
+      unit
+        source = Data Card
+        target = 
+      unit
+        source = Quick Info Card
+        target = 
+      unit
+        source = Show/ Hide Quick Info Card
+        target = 
+      unit
+        source = Note
+        target = 
+      unit
+        source = Notes
+        target = 
+      unit
+        source = Stay on Top
+        target = 
+      unit
+        source = Relationship
+        target = 
+      unit
+        source = relationship
+        target = 
+      unit
+        source = Relationships
+        target = 
+      unit
+        source = Section
+        target = 
+      unit
+        source = Sections
+        target = 
+      unit
+        source = Other Ancestries
+        target = 
+      unit
+        source = Family Group
+        target = 
+      unit
+        author_note = Don't translate the source, just list the names of groups in target language.
+                      Example:
+                      target = 
+                               Clan
+                               Tribe
+        source = [Family Groups]
+        target = <list>
+                 Family
+                 Clan
+                 Tribe
+
+      unit
+        source = Persons
+        target = 
+      unit
+        source = Male
+        target = 
+      unit
+        source = male
+        target = 
+      unit
+        source = Female
+        target = 
+      unit
+        source = female
+        target = 
+      unit
+        source = Males
+        target = 
+      unit
+        source = Females
+        target = 
+      unit
+        source = Name
+        target = 
+      unit
+        source = Names
+        target = 
+      unit
+        source = Person Name
+        target = 
+      unit
+        source = Given Name
+        target = 
+
+      unit
+        source = Other Name
+        target = 
+      unit
+        source = Full Name
+        target = 
+      unit
+        source = Surname
+        target = 
+      unit
+        source = Cognomen
+        target = 
+      unit
+        source = Nickname
+        target = 
+      unit
+        source = Suffix
+        target = 
+      unit
+        source = Family Name
+        target = 
+      unit
+        source = Older Family Name
+        target = 
+      unit
+        source = Family Surname
+        target = 
+      unit
+        source = Family Nickname
+        target = 
+      unit
+        source = Gender
+        target = 
+      unit
+        source = Grandfather
+        target = 
+      unit
+        source = Great grandfather
+        target = 
+      unit
+        source = Attached Mother
+        target = 
+      unit
+        source = Attached Father
+        target = 
+
+      unit
+        source = Data Entry Info
+        target = 
+      unit
+        source = Person Id
+        target = 
+      unit
+        source = Created Date
+        target = 
+      unit
+        source = Created By
+        target = 
+      unit
+        source = Last Modified Date
+        target = 
+      unit
+        source = Last Modified By
+        target = 
+
+      unit
+        source = Text to find
+        target = 
+      unit
+        source = Enter text to find
+        target = 
+      unit
+        source = Search
+        target = 
+      unit
+        source = Find
+        target = 
+      unit
+        source = Find Next
+        target = 
+      unit
+        source = Next
+        target = 
+      unit
+        source = Find in whole name
+        target = 
+
+      unit
+        source = Update Data
+        target = 
+
+      unit
+        context = start_page
+        source = Start Page
+        target = 
+      unit
+        context = start_page
+        source = Select tree file to open:
+        target = 
+      unit
+        context = start_page
+        source = Open tree file
+        target = 
+      unit
+        context = start_page
+        source = Create new tree file
+        target = 
+      unit
+        context = start_page
+        source = Tree
+        target = 
+      unit
+        context = start_page
+        source = Creator
+        target = 
+      unit
+        context = start_page
+        source = File
+        target = 
+      unit
+        context = start_page
+        source = [Untitled]
+        target = 
+
+      unit
+        context = start_page
+        source = [Not specified]
+        target = 
+
+      unit
+        context = start_page
+        source = Remove file name from the list?
+        target = 
+      unit
+        source = Please confirm
+        target = 
+      unit
+        context = start_page
+        source = Remove From List
+        target = 
+      unit
+        context = start_page
+        source = Enter name to find
+        target = 
+      unit
+        context = start_page
+        source = File not found.
+        target = 
+      unit
+        source = File could not be found:| "%*"
+        target = 
+      unit
+        source = Could not recognize the database.
+        target = 
+      unit
+        source = Error detected while reading the database| "%*"
+        target = 
+      unit
+        context = tree_message
+        source = Set Relationship
+        target = 
+
+
+      unit
+        context = tree_message
+        source = Set %* %* as son of %* %*
+        target = 
+      unit
+        context = tree_message
+        source = Set %* %* as daughter of %* %*
+        target = 
+        
+      unit
+        context = tree_message
+        source = Set this group as sons of
+        target = 
+
+      unit
+        context = main_window
+        source = To get Advanced Edition license:
+        target = 
+
+
+      unit
+        context = main_window
+        source = Total Entries
+        target = 
+
+      unit
+        context = main_window
+        source = No contradiction found in data.
+        target = 
+
+      unit
+        context = main_window
+        source = Help file not found.
+        target = 
+      unit
+        context = main_window
+        source = Internal application file. Please choose another file.
+        target = 
+      unit
+        context = main_window
+        source = Remove the name from the list?
+        target = 
+      unit
+        source = Export to Web Page
+        target = 
+      unit
+        context = main_menu
+        source = Print
+        target = 
+      unit
+        context = main_menu
+        source = Properties
+        target = 
+      unit
+        context = main_menu
+        source = Start Screen
+        target = 
+      unit
+        context = main_menu
+        source = General Search
+        target = 
+
+      unit
+        source = Summary
+        target = 
+      unit
+        source = Summaries
+        target = 
+      unit
+        source = Bookmark
+        target = 
+      unit
+        source = Bookmarks
+        target = 
+      unit
+        source = Data Table
+        target = 
+      unit
+        source = Family Tree Chart
+        target = 
+      unit
+        source = Picture
+        target = 
+      unit
+        source = Pictures
+        target = 
+      unit
+        source = Remove Picture
+        target = 
+      unit
+        source = Remove this picture?
+        target =        
+      unit
+        source = Add Picture
+        target = 
+      unit
+        source = Description
+        target = 
+
+      unit
+        context = main_menu
+        source = Tools
+        target = 
+      unit
+        source = Find Connections
+        target = 
+      unit
+        context = main_menu
+        source = Data Integrity and Maintenance
+        target = 
+
+      unit
+        context = main_menu
+        source = Parental Contradiction
+        target = 
+      unit
+        source = Entry Transactions
+        target = 
+      unit
+        source = Data File Maintainance
+        target = 
+
+      unit
+        context = main_menu
+        source = Reports
+        target = 
+      unit
+        context = main_menu
+        source = Browse Reports
+        target = 
+      unit
+        context = main_menu
+        source = Help
+        target = 
+      unit
+        context = main_menu
+        source = Starting Using Nidham Ansab
+        target = 
+      unit
+        context = main_menu
+        source = Short-cut Keys Guide
+        target = 
+      unit
+        context = main_menu
+        source = Data Entry Basics
+        target = 
+      unit
+        context = main_menu
+        source = Mailing List
+        target = 
+      unit
+        context = main_menu
+        source = About Nidham Ansab
+        target = 
+
+      unit
+        context = about
+        source = Standard Edition
+        target = 
+
+      unit
+        context = about
+        source = Advanced Edition
+        target = 
+
+      unit
+        context = about
+        source = Development Edition
+        target = 
+
+      unit
+        context = about
+        source = Software license
+        target = 
+      unit
+        context = about
+        source = Version
+        target = 
+      unit
+        context = about
+        source = This program is licensed to
+        target = 
+      unit
+        source = Licensee
+        target = 
+      unit
+        source = Software license not found.
+        target = 
+      unit
+        source = Invalid software license.
+        target = 
+
+      unit
+        context = about
+        source = (C) Khaked Shagrouni
+        target = 
+      unit
+        source = Last update
+        target =
+      unit
+        context = create_new_tree
+        source = Create New Tree
+        target = 
+      unit
+        context = create_new_tree
+        source = Tree name
+        target = 
+      unit
+        context = create_new_tree
+        source = Owner
+        target = 
+      unit
+        context = create_new_tree
+        source = Location
+        target = 
+      unit
+        context = create_new_tree
+        source = [txt_location]
+        orientation = ltr
+      unit
+        context = create_new_tree
+        source = [txt_path]
+        orientation = ltr
+      unit
+        context = create_new_tree
+        source = Folder
+        target = 
+      unit
+        context = create_new_tree
+        source = File name
+        target = 
+      unit
+        context = create_new_tree
+        source = Detail
+        target = 
+      unit
+        context = create_new_tree
+        source = Tree Project
+        target = 
+      unit
+        context = create_new_tree
+        source = Invalid path name
+        target = 
+
+      unit
+        context = export_option
+        source = Export Options
+        target = 
+      unit
+        context = export_option
+        source = Show Options
+        target = 
+      unit
+        context = export_option
+        source = Print Options
+        target = 
+
+      unit
+        context = export_option
+        source = Title
+        target = 
+      unit
+        context = export_option
+        source = Ancestry chain
+        target = 
+      unit
+        context = export_option
+        source = Fathers and their sons
+        target = 
+      unit
+        context = export_option
+        source = Fathers and their sons and daughters
+        target = 
+      unit
+        context = export_option
+        source = Fathers and their sons, daughters and grandchildren
+        target = 
+      unit
+        context = export_option
+        source = Mothers and their daughters
+        target = 
+      unit
+        context = export_option
+        source = Mothers and their sons and daughters
+        target = 
+      unit
+        context = export_option
+        source = Moathers and their sons, daughters and grandchildren
+        target = 
+
+      unit
+        context = export_option
+        source = Exclude descendant of
+        target = 
+      unit
+        context = export_option
+        source = Show parents names
+        target = 
+      unit
+        context = export_option
+        source = Show spouse name
+        target = 
+      unit
+        context = export_option
+        source = Force visibility of
+        target = 
+      unit
+        context = export_option
+        source = Tree expanding level
+        target = 
+
+      unit
+        source = Chart Type
+        target = 
+      unit
+        source = Treeview
+        target = 
+      unit
+        source = Chart
+        target = 
+
+      unit
+        source = Web Page Width
+        target = 
+      unit
+        source = Adjust the width of the web page to contain the tree elements properly.
+        target = 
+      unit
+        context = export_option
+        source = Open exported page
+        target = 
+      unit
+        source = Print Preview
+        target = 
+      unit
+        source = Preparing
+        target = 
+      unit
+        source = %# of %#
+        target = 
+      unit
+        source = Page Width
+        target = 
+      unit
+        source = Page Height
+        target = 
+      unit
+        source = Whole Page
+        target = 
+      unit
+        source = Abort printing?
+        target = 
+      unit
+        author_note = shortened o f the word "Spouse"
+        source = S
+        target = 
+      unit
+        source = This page prepared by %* application.
+        target = 
+      unit
+        context = properties
+        source = Properties
+        target = 
+      unit
+        context = properties
+        source = General
+        target = 
+      unit
+        context = properties
+        source = Description
+        target = 
+      unit
+        context = properties
+        source = Tree
+        target = 
+      unit
+        context = properties
+        source = Owner
+        target = 
+      unit
+        context = properties
+        source = File
+        target = 
+      unit
+        context = properties
+        source = Location
+        target = 
+      unit
+        context = properties
+        source = Size
+        target = 
+      unit
+        context = properties
+        source = Last added
+        target = 
+      unit
+        context = properties
+        source = Last modified
+        target = 
+      unit
+        context = properties
+        source = Statistics
+        target = 
+      unit
+        context = properties
+        source = Byte
+        target = 
+      unit
+        context = properties
+        source = KB
+        target = 
+      unit
+        context = properties
+        source = MB
+        target = 
+      unit
+        context = properties
+        source = Records
+        target = 
+      unit
+        context = relationships
+        source = Sections
+        target = 
+      unit
+        context = relationships
+        source = Persons
+        target = 
+      unit
+        context = relationships
+        source = Males
+        target = 
+      unit
+        context = relationships
+        source = Females
+        target = 
+      unit
+        context = relationships
+        source = Mariage Relationships
+        target = 
+      unit
+        context = properties
+        source = Pictures
+        target = 
+      unit
+        context = general_search
+        source = General Search
+        target = 
+
+      unit
+        source = Update Names
+        target = 
+      unit
+        context = relationships
+        source = Delete Relationship With Father
+        target = 
+      unit
+        context = relationships
+        source = Delete Relationship With Mother
+        target = 
+
+      unit
+        context = relationships
+        source = Reorder Children
+        target = 
+
+      unit
+        context = relationship_marriage
+        source = Husband Order
+        target = 
+      unit
+        context = relationship_marriage
+        source = Wife Order
+        target = 
+      unit
+        context = relationship_marriage
+        source = Reorder Spouses
+        target = 
+      unit
+        context = relationship_marriage
+        source = Remove marriage relationship
+        target = 
+      unit
+        context = relationship_marriage
+        source = Alphabetic sort
+        target =
+      unit
+        context = relationship_marriage								
+        source = Marriage Relationships
+        target = 
+      unit
+        context = relationship_marriage
+        source = Childless Marriages
+        target = 
+      unit
+        context = relationship_marriage
+        source = Childless Husbands
+        target = 
+      unit
+        context = relationship_marriage
+        source = Childless Wives
+        target = 
+      unit
+        context = relationship_marriage
+        source = Divorced
+        target = 
+      unit
+        context = relationship_marriage
+        source = Remove Marriage Relationship
+        target = 
+      unit
+        context = relationship_marriage
+        source = Remove marriage relationship
+        target = 
+      unit
+        context = relationship_marriage
+        source = Remove marriage relationship with | %* ?
+        target = 
+
+      unit
+        context = relationship_marriage
+        source = Set Marriage Relationship
+        target = 
+
+      unit
+        context = relationship_marriage
+        source = There is no marriage relationship between %* and %*, mother of %* |Set marriage relationship?
+        target = 
+      unit
+        context = relationship_marriage
+        source = There is no marriage relationship between %* and %*, father of %* |Set marriage relationship?
+        target = 
+
+      unit
+        context = relationship_marriage
+        source = Marriage relationship between %* and %* %*
+        target = 
+      unit
+        context = relationship_marriage
+        source = Switch dependency of %s %s to %s %s
+        target = 
+
+      unit
+        context = relationship_marriage
+        source = Husband and wife can't have same gender.
+        target = 
+      unit
+        context = relationship_marriage
+        source = Can't set the marriage relationship.
+        target = 
+      unit
+        context = relationship_marriage
+        source = This will attach %* as a husband.
+        target = 
+      unit
+        context = relationship_marriage
+        source = This will attach %* as a wife.
+        target = 
+
+      unit
+        context = relationships
+        source = Remove children relationship to the %* ? | %*
+        target = 
+      unit
+        context = relationships
+        source = Delete relationship with the father?
+        target = 
+      unit
+        context = relationships
+        source = Delete relationship with the mother?
+        target = 
+      unit
+        context = relationships
+        source = Not attached to a father. Can't delete the relationship.
+        target = 
+      unit
+        context = relationships
+        source = Not attached to a mother. Can't delete the relationship.
+        target = 
+      unit
+        source = Children
+        target = 
+      unit
+        source = Birth order (Father side)
+        target = 
+      unit
+        source = Birth order (Mother side)
+        target = 
+
+      unit
+        context = bookmarks
+        source = Edit bookmark
+        target = 
+      unit
+        context = bookmarks
+        source = Delete bookmark
+        target = 
+      unit
+        context = bookmarks
+        source = Please confirm deleting the bookmark.
+        target = 
+
+      unit
+        context = chart
+        source = Save As Image
+        target = 
+      unit
+        context = chart
+        source = Save As PDF File
+        target = 
+
+      unit
+        source = Person Display Options
+        target = 
+      unit
+        source = Expanded Name
+        target = 
+      unit
+        source = Show Parents
+        target = 
+      unit
+        source = Show Children
+        target = 
+      unit
+        source = Show Spouses
+        target = 
+      unit
+        source = Show All Descendents
+        target = 
+      unit
+        source = Root at top
+        target = 
+      unit
+        source = Root at bottom
+        target = 
+
+      unit
+        source = Connecting Links
+        target = 
+      unit
+        source = Follow Chart
+        target = 
+      unit
+        source = Lines
+        target = 
+      unit
+        source = Sticks
+        target = 
+      unit
+        source = Align
+        target = 
+      unit
+        source = Left
+        target = 
+      unit
+        source = Right
+        target = 
+      unit
+        source = Top
+        target = 
+      unit
+        source = Bottom
+        target = 
+      unit
+        source = Middle
+        target = 
+      unit
+        source = Center
+        target = 
+      unit
+        source = Save the changes to the chart?
+        target = 
+      unit
+        source = Remove %d item(s) from chart. | Remove Item(s)?
+        target = 
+      unit
+        context = chart
+        source = Drag person from a tree and drop into chart.
+        target = 
+      unit
+        context = chart
+        source = This chart may not belong to the current tree file.| Chart tree file: %s%s Current tree file: %s
+        target = 
+
+      unit
+        source = Select children
+        target = 
+
+      unit
+        context = data_card
+        source = Text
+        target = 
+      unit
+        source = Synchronize
+        target = 
+      unit
+        source = Data Synchronization With Tree Elements
+        target = 
+      unit
+        source = Instant Save
+        target = 
+
+      unit
+        source = Year
+        target = 
+      unit
+        source = Month
+        target = 
+      unit
+        source = Day
+        target = 
+      unit
+        source = Date Calculator
+        target = 
+      unit
+        source = Date of Birth
+        target = 
+      unit
+        source = Date of Death
+        target = 
+      unit
+        source = Dates
+        target = 
+      unit
+        source = Gregorian
+        target = 
+      unit
+        source = Hijri
+        target = 
+      unit
+        source = G
+        target = 
+      unit
+        source = H
+        target = 
+      unit
+        source = B.c
+        target = 
+      unit
+        source = B.h
+        target = 
+      unit
+        source = Date
+        target = 
+      unit
+        source = Gregorian Date
+        target = 
+      unit
+        source = Hijri Date
+        target = 
+      unit
+        source = Calculate Gregorian Date
+        target = 
+      unit
+        source = Calculate Hijri Date
+        target = 
+      unit
+        source = Convert Date to Hijri
+        target = 
+      unit
+        source = Convert Date to Gregorian
+        target = 
+
+      unit
+        source = Muharram
+        target = 
+      unit
+        source = Safar
+        target = 
+      unit
+        source = Rabi' al-awwal
+        target = 
+      unit
+        source = Rabi' al-thani
+        target = 
+      unit
+        source = Jumada al-awwal
+        target = 
+      unit
+        source = Jumada al-thani
+        target = 
+      unit
+        source = Rajab
+        target = 
+      unit
+        source = Sha'ban
+        target = 
+      unit
+        source = Ramadan
+        target = 
+      unit
+        source = Shawwal
+        target = 
+      unit
+        source = Dhu al-Qi'dah
+        target = 
+      unit
+        source = Dhu al-Hijjah
+        target = 
+
+
+      unit
+        source = January
+        target = 
+      unit
+        source = February
+        target = 
+      unit
+        source = March
+        target = 
+      unit
+        source = April
+        target = 
+      unit
+        source = May
+        target = 
+      unit
+        source = June
+        target = 
+      unit
+        source = July
+        target = 
+      unit
+        source = August
+        target = 
+      unit
+        source = September
+        target = 
+      unit
+        source = October
+        target = 
+      unit
+        source = November
+        target = 
+      unit
+        source = December
+        target = 
+
+      unit
+        source = Friday
+        target = 
+      unit
+        source = Saturday
+        target = 
+      unit
+        source = Sunday
+        target = 
+      unit
+        source = Monday
+        target = 
+      unit
+        source = Tuesday
+        target = 
+      unit
+        source = Wednesday
+        target = 
+      unit
+        source = Thursday
+        target = 
+
+      unit
+        source = Deceased
+        target = 
+      unit
+        source = Birth Date
+        target = 
+      unit
+        source = Birth Place
+        target = 
+      unit
+        source = Death Date
+        target = 
+      unit
+        source = Death Place
+        target = 
+      unit
+        source = Show/Hide Other Data
+        target = 
+      unit
+        source = Other Data
+        target = 
+      unit
+        source = Hide Other Data
+        target = 
+      unit
+        source = Gregorian Dates: Birth date greater than death date.
+        target = 
+      unit
+        source = Hijri Dates: Birth date greater than death date.
+        target = 
+      unit
+        source = Born %d year(s), %d month(s), %d day(s) ago
+        target = 
+        target_f = 
+      unit
+        source = Born %d year(s), %d month(s) ago
+        target = 
+        target_f = 
+      unit
+        source = Born %d year(s) ago
+        target = 
+        target_f = 
+
+      unit
+        source = Died %# year(s), %# month(s), %# day(s) ago
+        target = 
+        target_f = 
+      unit
+        source = Died %# year(s), %# month(s) ago
+        target = 
+        target_f = 
+      unit
+        source = Died %# year(s) ago
+        target = 
+        target_f = 
+      unit
+        source = Lived
+        target = 
+        target_f = 
+      unit
+        source = Estimated time since birth
+        target = 
+      unit
+        source = Estimated time since death
+        target = 
+
+      unit
+        context = relationships
+        source = Breastfeeding Relationships
+        target = 
+      unit
+        context = relationships
+        source = Breastfeeding Mother
+        target = 
+      unit
+        context = relationships
+        source = Breastfeeding Brothers
+        target = 
+      unit
+        source = Breastfeeding Mothers
+        target = 
+      unit
+        source = Breastfeeding Siblings
+        target = 
+      unit
+        source = Breastfeeding Children
+        target = 
+      unit
+        source = Breastfeeding Father
+        target = 
+      unit
+        source = Breastfeeding Mother
+        target = 
+      unit
+        source = Breastfeeding Son
+        target = 
+      unit
+        source = Breastfeeding Daughter
+        target = 
+      unit
+        source = Breastfeeding Brother
+        target = 
+      unit
+        source = Breastfeeding Sister
+        target = 
+
+      unit
+        source = Remove relationship with breastfeeding mother?
+        target = 
+      unit
+        source = Remove relationship with breastfeeding sibling?
+        target = 
+      unit
+        source = Remove relationship with breastfeeding child?
+        target = 
+      unit
+        context = relationships
+        source = Relationship Type
+        target = 
+
+      unit
+        source = Father
+        target = 
+      unit
+        source = Mother
+        target = 
+      unit
+        source = father
+        target = 
+      unit
+        source = mother
+        target = 
+      unit
+        source = Son
+        target = 
+      unit
+        source = son
+        target = 
+      unit
+        source = Daughter
+        target = 
+      unit
+        source = daughter
+        target = 
+      unit
+        context = add_menu
+        source = Son
+        target = 
+      unit
+        context = add_menu
+        source = Daughter
+        target = 
+
+
+      unit
+        context = father's brother
+        source = uncle
+        target = 
+      unit
+        context = mother's brother
+        source = uncle
+        target = 
+      unit
+        context = father's sister
+        source = aunt
+        target = 
+      unit
+        context = mother's sister
+        source = aunt
+        target = 
+
+      unit
+        context = relationships
+        source = Husband
+        target = 
+      unit
+        context = relationships
+        source = husband
+        target = 
+      unit
+        context = relationships
+        source = Husbands
+        target = 
+      unit
+        context = relationships
+        source = Wife
+        target = 
+      unit
+        context = relationships
+        source = wife
+        target = 
+      unit
+        context = relationships
+        source = Wives
+        target = 
+      unit
+        context = relationships
+        source = Spouse
+        target = 
+        target_p = 
+        target_f = 
+        target_fp = 
+      unit
+        source = Switch Parents
+        target = 
+
+
+      unit
+        context = relationships
+        source = Can't set other relationship. Have same parent.
+        target = 
+      unit
+        context = relationships
+        source = Can't change this person to a father. there are children already attached to other father.
+        target = 
+      unit
+        context = relationships
+        source = Can't change this person to a mother. there are children already attached to other mother.
+        target = 
+      unit
+        context = relationships
+        source = Change to Father
+        target = 
+      unit
+        context = relationships
+        source = Change to Mother
+        target = 
+      unit
+        context = relationships
+        source = This will change children attachment to a father..|Continue?
+        target = 
+      unit
+        context = relationships
+        source = This will change children attachment to a mother..|Continue?
+        target = 
+      unit
+        source = This person has a marriage or breastfeeding relationship. Can't change to a group.
+        target = 
+      unit
+        source = Gender must be Male before setting as group.
+        target = 
+      unit
+        source = Can't change Group to female.
+        target = 
+
+      unit
+        source = There are children attached exclusively to the current person.
+                 You must first rearrange their attachment or delete them.
+        target = 
+      unit
+        source = This will remove this person and delete all its relationships.
+        target = 
+      unit
+        source = |Continue to remove: %* ?
+        target = 
+
+      unit
+        source = Remove selected persons?
+        target = 
+
+
+      unit
+        source = Select Father
+        target = 
+      unit
+        source = Select Mother
+        target = 
+      unit
+        source = Children will be attached to the mother
+                 or will be moved to Tree Side.
+        target = 
+      unit
+        source = Children will be attached to the father
+                 or will be moved to Tree Side.
+        target = 
+
+      unit
+        source = This will attach selected person(s) to other father.| Continue?
+        target = 
+      unit
+        source = This will attach selected person(s) to other mother.| Continue?
+        target = 
+      unit
+        source = This will attach selected person(s) to the root of the tree.|Continue?
+        target = 
+      unit
+        source = Father's gender must be male.
+        target = 
+      unit
+        source = Mother's gender must be female.
+        target = 
+      unit
+        source = The selected father is a brother of at least one of targeted individuals.
+        target = 
+      unit
+        source = The selected mother is a sister of at least one of targeted individuals.
+        target = 
+      unit
+        source = This will attach %* as a father of %*.|Please confirm.
+        target = 
+      unit
+        source = This will attach %* as a mother of %*.|Please confirm.
+        target = 
+      unit
+        source = This will attach %* as a father of selected persons.|Please confirm.
+        target = 
+      unit
+        source = This will attach %* as a mother of selected persons.|Please confirm.
+        target = 
+      unit
+        source = Can't attach as children.|Selected person(s) have same mother as %*.
+        target = 
+      unit
+        source = Can't attach as children.|Selected person(s) have same father as %*.
+        target = 
+      unit
+        source = Selected person(s) will be attached as children of %*.
+        target = 
+
+      unit
+        source = Attach
+        target = 
+      unit
+        source = Attach Father
+        target = 
+      unit
+        source = Attach Mother
+        target = 
+      unit
+        source = Attach Children
+        target = 
+      unit
+        source = Specifying Mother
+        target = 
+      unit
+        source = Specifying Father
+        target = 
+
+      unit
+        source = Add Children
+        target = 
+      unit
+        source = Sons
+        target = 
+      unit
+        source = Daughters
+        target = 
+
+      unit
+        source = Go Forward
+        target = 
+      unit
+        source = Go Backward
+        target = 
+      unit
+        source = Add Female Person (Shift Insert)
+        target = 
+      unit
+        source = Add Male Person (Insert)
+        target = 
+      unit
+        source = Add Group
+        target = 
+      unit
+        source = Set as Female (F8)
+        target = 
+      unit
+        source = Set as Male (F7)
+        target = 
+      unit
+        source = Set as Group (F6)
+        target = 
+      unit
+        source = Toggle Tree Display from Right-to-Left and Left-toRight
+        target = 
+
+      unit
+        source = Zoom in (Ctrl Alt =)
+        target = 
+      unit
+        source = Zoom out (Ctrl Alt -)
+        target = 
+
+      unit
+        source = Add Son
+        target = 
+      unit
+        source = Add Daughter
+        target = 
+      unit
+        source = Add Child List
+        target = 
+      unit
+        source = Add Lineage
+        target = 
+
+      unit
+        source = To be set later
+        target = 
+        target_f = 
+      unit
+        source = Add Lineage
+        target = 
+      unit
+        source = Apply on Descendants
+        target = 
+      unit
+        source = Apply options
+        target = 
+
+      unit
+        source = Apply only on persons with no value for Family Name.
+        target = 
+      unit
+        source = Apply only on persons with no value for Older Family Name.
+        target = 
+      unit
+        source = Apply only on persons with no value for Family Surname.
+        target = 
+      unit
+        source = Apply only on persons with no value for Family Nickname.
+        target = 
+
+
+      unit
+        source = Apply on all descendents and change the value of Family Name.
+        target = 
+      unit
+        source = Apply on all descendents and change the value of Older Family Name.
+        target = 
+      unit
+        source = Apply on all descendents and change the value of Surname.
+        target = 
+      unit
+        source = Apply on all descendents and change the value of Family Nickname.
+        target =         
+      unit
+        source = Please select a mother and press %*.%*If not specified press %*.
+        target = 
+      unit
+        source = Please select a father and press %*.%*If not specified press %*.
+        target = 
+      unit
+        source = Attach Wife
+        target = 
+      unit
+        source = Attach Husband
+        target = 
+      unit
+        source = Gender of father must be male.
+        target = 
+      unit
+        source = Gender of mother must be male.
+        target = 
+      unit
+        source = No person has been chosen.
+        target = 
+      unit
+        source = Mother Lineage
+        target = 
+      unit
+        source = Father Lineage
+        target = 
+      unit
+        source = Write lineage as text or list.
+        target = 
+      unit
+        source = Lineage Text
+        target = 
+      unit
+        source = Lineage List
+        target = 
+      unit
+        source = Mark Ancestors
+        target = 
+      unit
+        source = Unmark Ancestors
+        target = 
+      unit
+        source = Show Lineage
+        target = 
+      unit
+        source = Name son of Name son of Name ..
+        target = 
+      unit
+        source = Son||Father||Grandfather
+        target = 
+      unit
+        source = Son
+                 Father
+                 Grandfather
+                 GrandGrandfather
+        target = <list>
+                 Father
+                 Grandfather
+                 GrandGrandfather
+
+      unit
+        author_note = Example:
+                      target = 
+                               daughter of
+        source = [name_seperators]
+        target = <list>
+                 son of
+                 daughter of
+      unit
+        source = Copy Option
+        target = 
+      unit
+        source = Person only
+        target = 
+      unit
+        source = Person and direct descendants
+        target = 
+      unit
+        source = Person and all descendants
+        target = 
+
+      unit
+        source = First Person
+        target = 
+      unit
+        source = Second Person
+        target = 
+      unit
+        source = Connections
+        target = 
+      unit
+        source = Show Connection
+        target = 
+      unit
+        source = By drag and drop, select two persons from a Tree and put them in the square below.
+        target = 
+      unit
+        source = Two persons must be provided to find connections.
+        target = 
+
+      unit
+        source = Show entries and modifications since this date
+        target = 
+      unit
+        source = Entries
+        target = 
+      unit
+        source = Modifications
+        target = 
+      unit
+        source = Entry Date
+        target = 
+      unit
+        source = Modification Date
+        target = 
+      unit
+        source = User Name
+        target = 
+
+      unit
+        source = Failed to maintain database.
+        target = 
+
+      unit
+        source = List
+        target = 
+      unit
+        source = Person Display Options
+        target = 
+      unit
+        source = Hide picture
+        target = 
+      unit
+        source = Display icon in Tree
+        target = 
+      unit
+        source = Display color in Tree
+        target = 
+
+
+      unit
+        source = Include female descendants
+        target = 
+      unit
+        source = Total
+        target = 
+      unit
+        source = Calculate
+        target = 
+
+      unit
+        context = relationships_dialog
+        source = is a father of
+        target = 
+      unit
+        context = relationships_dialog
+        source = is a mother of
+        target = 
+
+      unit
+        context = relationships_dialog
+        source = is a son of
+        target = 
+      unit
+        context = relationships_dialog
+        source = is a daughter of
+        target = 
+      unit
+        context = relationships_dialog
+        source = is a husband of
+        target = 
+      unit
+        context = relationships_dialog
+        source = is a wife of
+        target = 
+
+      unit
+        context = relationships_dialog
+        source = is a breastfeeding brother of
+        target = 
+      unit
+        context = relationships_dialog
+        source = is a breastfeeding sister of
+        target = 
+
+      unit
+        context = relationships_dialog
+        source = is a breastfeeding mother of
+        target = 
+      unit
+        context = relationships_dialog
+        source = is a breastfeeding father of
+        target = 
+
+      unit
+        context = relationships_dialog
+        source = is a breastfeeding son of
+        target = 
+      unit
+        context = relationships_dialog
+        source = %* and %* are siblings
+        target = 
+      unit
+        context = relationships_dialog
+        source = %* and %* have a parent/child relationship
+        target = 
+
+      unit
+        context = relationships_dialog
+        source = %* and %* are breastfeeding siblings
+        target = 
+      unit
+        context = relationships_dialog
+        source = %* and %* have a breastfeeding relationship
+        target = 
+
+      unit
+        context = relationships_dialog
+        source = One of relationship type must be chosen.
+        target = 
+      unit
+        context = relationships_dialog
+        source = Father
+        target = 
+      unit
+        context = relationships_dialog
+        source = Mother
+        target = 
+      unit
+        context = relationships_dialog
+        source = Son
+        target = 
+      unit
+        context = relationships_dialog
+        source = Daughter
+        target = 
+      unit
+        context = relationships_dialog
+        source = Husband
+        target = 
+      unit
+        context = relationships_dialog
+        source = Wife
+        target = 
+
+      unit
+        source = Add individual and edit its name
+        target = 
+      unit
+        source = To add a person or edit its name; select the person in Tree
+                 and right click the mouse for a pop-up menu, then select a
+                 command
+        target = 
+      unit
+        source = Or use Keyboard Short-cuts
+        target = 
+      unit
+        source = or
+        target = 
+      unit
+        source = Add Daughter
+        target = 
+      unit
+        source = Delete Person
+        target = 
+      unit
+        source = Change Person Gender
+        target = 
+      unit
+        source = Reattach individual
+        target = 
+      unit
+        source = To reattach person
+        target = 
+      unit
+        source = By pressing the left button of the mouse; select person name
+                 and drag it to the individual to be attached to; then drop.
+        target = 
+
+      unit
+        source = Language
+        target = 
+      unit
+        source = Open last Tree on startup
+        target = 
+      unit
+        source = Different Color for each level
+        target = 
+
+      unit
+        source = Merge from External Tree
+        target = 
+      unit
+        source = Select the Tree file you want to merge into the base tree
+        target = 
+      unit
+        source = Full Merge
+        target = 
+      unit
+        source = Select What to Merge
+        target = 
+      unit
+        source = Back
+        target = 
+      unit
+        source = Persons not listed in base tree
+        target = 
+      unit
+        source = Relations not listed in base tree
+        target = 
+      unit
+        source = Merge Persons
+        target = 
+      unit
+        source = Selected
+        target = 
+      unit
+        source = Name Chain
+        target = 
+      unit
+        source = Selected file and the current file are the same.|Please select a different file.
+        target = 
+      unit
+        source = Continue to merge?|Please confirm.
+        target = 
+
+      unit
+        source = Details
+        target = 
+      unit
+        source = Identity No
+        target = 
+      unit
+        source = Cell Phone
+        target = 
+      unit
+        source = Home Phone
+        target = 
+      unit
+        source = Email
+        target = 
+      unit
+        source = Street 1
+        target = 
+      unit
+        source = Street 2
+        target = 
+      unit
+        source = Neighborhood
+        target = 
+      unit
+        source = City
+        target =         
+      unit
+        source = State
+        target = 
+      unit
+        source = Country
+        target = 
+      unit
+        source = Postal Code
+        target = 
+      unit
+        source = Location Coordinates
+        target = 
+      unit
+        source = Show location in map.
+        target = 
+      unit
+        source = Contact Info
+        target = 
+      unit
+        source = Working Body
+        target =
+      unit
+        source = Address
+        target = 
+      unit
+        source = Work Address
+        target = 
+
+      unit
+        source = Net Accounts
+        target = 
+      unit
+        source = Account
+        target = 
+      unit
+        source = Accounts
+        target = 
+
+      unit
+        source = Delete account
+        target = 
+      unit
+        source = Delete this account?
+        target = 
+      unit
+        source = Personal Site
+        target = 
+      unit
+        source = Overview
+        target = 
+      unit
+        source = Reports
+        target = 
+      unit
+        source = Person list
+        target = 
+      unit
+        source = Contact list
+        target = 
+      unit
+        source = Address list
+        target = 
+      unit
+        source = Save as Excel file
+        target = 
+      unit
+        source = Save as Text file
+        target = 
+
+      unit
+        source = Sort
+        target = 
+      unit
+        source = Filter
+        target = 
+      unit
+        source = Custom Filter
+        target = 
+      unit
+        source = Filtered
+        target = 
+      unit
+        source = Unfiltered
+        target = 
+      unit
+        source = No Filter
+        target = 
+      unit
+        source = Equals
+        target = 
+      unit
+        source = Dose Not Equal
+        target = 
+      unit
+        source = Contains
+        target = 
+      unit
+        source = Dose Not Contain
+        target = 
+      unit
+        source = There is no current filter
+        target = 
+      unit
+        source = Click to remove filter from the records
+        target = 
+      unit
+        source = Click to filter the records by using the last saved filter
+        target = 
+      unit
+        source = %s is equal to
+        target = 
+      unit
+        source = %s is not equal to
+        target = 
+      unit
+        source = %s is contains
+        target = 
+      unit
+        source = %s dose not contain
+        target = 
+
+
+      unit
+        source = %s is less than or equal to
+        target = 
+      unit
+        source = %s is greater than or equal to
+        target = 
+      unit
+        source = Text Filter
+        target = 
+      unit
+        source = Number Filter
+        target = 
+      unit
+        source = Lees Than or Equal To
+        target = 
+      unit
+        source = Greater Than or Equal To
+        target = 
+      unit
+        source = Lees Than
+        target = 
+      unit
+        source = Greater Than
+        target = 
+      unit
+        source = Between
+        target = 
+      unit
+        source = Enter the smallest number and the greatest number
+        target = 
+
+      unit
+        source = Yes
+        target = 
+      unit
+        source = No
+        target = 
+      unit
+        source = Front page description
+        target = 
+      unit
+        source = Prepared by
+        target = 
+      unit
+        source = Application Update
+        target = 
+      unit
+        source = Failed to check for update
+        target = 
+      unit
+        source = Application is up to date
+        target = 
+      unit
+        source = There is an update availabe
+        target = 
+      unit
+        source = Version
+        target = 
+      unit
+        source = This update is critical
+        target = 
+      unit
+        source = Load and install Update?
+        target = 
+      unit
+        source = Exit the Application
+        target = 
+
+      unit
+        source = Program Updates
+        target = 
+      unit
+        source = Check for Updates
+        target = 
+      unit
+        source = Download and install the update?
+        target = 
+      unit
+        source = A new version of
+        target = 
+      unit
+        source = Update version
+        target = 
+      unit
+        source = This update is critical
+        target = 
+      unit
+        source = Previous updates
+        target = 
+      unit
+        source = Install new version
+        target = 
+      unit
+        source = The new version is ready to Download and install
+        target = 
+      unit
+        source = Update available
+        target = 
+      unit
+        source = Current used version
+        target = 
+
+      unit
+        source = This is a demo version.|Limited records can be handled
+        target = 
+      unit
+        source = Demo Version
+        target = 
